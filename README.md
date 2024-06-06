@@ -11,17 +11,12 @@ empkins_d03_preprocessing
 ├── empkins_d03_preprocessing  # The core library folder. All project-wide helper and algorithms go here
 |
 ├── experiments  # The main folder for all experiements. Each experiment has its own subfolder
-|   ├── experiment_1  # A single experiment (can be created with `poe experiment experiment_name`)
-|   |   ├── notebooks  # All narrative notebooks belonging to the experiment.
-|   |   ├── scripts  # Python scripts for this experiment
-|   |   ├── helper  # A Python module with experiment specific helper functions
+|   ├── 2022_05_macro  # All scripts for Macro 1.0 study
+|   |   ├── biomarker
+|   |   ├── unipark
 |   |
 |   ├── experiment_2
 |       ├── ...
-|
-├── tests  # Unit tests for the `empkins_d03_preprocessing` library
-|
-├── data  # The main data folder. This is ignored in the `.gitignore` by default.
 |
 |   pyproject.toml  # The required python dependencies for the project
 |   poetry.lock  # The frozen python dependencies to reproduce exact results
@@ -91,20 +86,3 @@ import helper
 # or
 from helper import ...
 ```
-
-### Format and Linting
-
-To ensure consistent code structure this project uses prospector, black, and ruff to automatically check (and fix) the code format.
-
-```
-poe format  # runs ruff format and ruff lint with the autofix flag
-poe lint # runs ruff without autofix (will show issues that can not automatically be fixed)
-```
-
-If you want to check if all code follows the code guidelines, run `poe ci_check`.
-This can be useful in the CI context
-
-
-### Tests
-
-All tests are located in the `tests` folder and can be executed by using `poe test`.
