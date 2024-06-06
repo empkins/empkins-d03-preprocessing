@@ -14,6 +14,7 @@ empkins_d03_preprocessing
 |   ├── 2022_05_macro  # All scripts for Macro 1.0 study
 |   |   ├── biomarker
 |   |   ├── unipark
+|   |   ├── config.json # Set up your path here ({"data_path":"<path_to_data_repo>"})
 |   |
 |   ├── experiment_2
 |       ├── ...
