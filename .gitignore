@@ -244,3 +244,6 @@ data
 
 # debug folder
 _debug
+
+# json config files
+*.json
