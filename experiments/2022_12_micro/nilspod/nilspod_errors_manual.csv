@@ -17,7 +17,7 @@ VP_008,tsst,Cannot load NilsPod data!
 VP_008,ftsst,Cannot load NilsPod data!
 VP_009,tsst,Cannot load NilsPod data!
 VP_010,tsst,Cannot load NilsPod data!
-VP_014,ftsst,"The length of the input vector x must be greater than padlen, which is 18."
+VP_014,ftsst,"The length of the input vector x must be greater than padlen, which is 18.", "Recording stopped too early -> Recovery missing"
 VP_021,tsst,No NilsPod files found in directory!
 VP_022,tsst,
 VP_022,ftsst,No NilsPod files found in directory!
@@ -27,13 +27,13 @@ VP_026,tsst,Cannot load NilsPod data!
 VP_026,ftsst,Cannot load NilsPod data!
 VP_027,tsst,Cannot load NilsPod data!
 VP_027,ftsst,Cannot load NilsPod data!
-VP_031,tsst,
-VP_031,ftsst,'b0c2'
-VP_032,tsst,
-VP_032,ftsst,"The length of the input vector x must be greater than padlen, which is 18."
-VP_033,tsst,
-VP_033,ftsst,"The length of the input vector x must be greater than padlen, which is 18."
-VP_044,ftsst,"The length of the input vector x must be greater than padlen, which is 18."
+VP_031,tsst,,"Master missing""
+VP_031,ftsst,"The length of the input vector x must be greater than padlen, which is 18.", "ECG recording stopped"
+VP_032,tsst,,"Master missing"
+VP_032,ftsst,"The length of the input vector x must be greater than padlen, which is 18.", "ECG recording stopped"
+VP_033,tsst,, "Master missing"
+VP_033,ftsst,"The length of the input vector x must be greater than padlen, which is 18.", "ECG recording stopped"
+VP_044,ftsst,"The length of the input vector x must be greater than padlen, which is 18.", "Nilspod files missing"
 VP_045,tsst,No NilsPod files found in directory!
 VP_045,ftsst,No cleaned timelog file was found for VP_045! Run the 'notebooks/clean_timelog.ipynb' notebook first!
 VP_050,tsst,
@@ -46,14 +46,14 @@ VP_060,tsst,No cleaned timelog file was found for VP_060! Run the 'notebooks/cle
 VP_060,ftsst,"The length of the input vector x must be greater than padlen, which is 18."
 VP_061,tsst,No NilsPod files found in directory!
 VP_061,ftsst,"The length of the input vector x must be greater than padlen, which is 18."
-VP_066,ftsst,No NilsPod files found in directory!
-VP_067,ftsst,No NilsPod files found in directory!
-VP_082,ftsst,No NilsPod files found in directory!
-VP_083,ftsst,No NilsPod files found in directory!
-VP_096,tsst,
-VP_101,tsst,"The length of the input vector x must be greater than padlen, which is 18."
+VP_066,ftsst,No NilsPod files found in directory!, "Missing"
+VP_067,ftsst,No NilsPod files found in directory!, "Missing"
+VP_082,ftsst,No NilsPod files found in directory!, "Missing"
+VP_083,ftsst,No NilsPod files found in directory!, "Missing timelog and nilspod files"
+VP_096,tsst,,"Master missing"
+VP_101,tsst,"The length of the input vector x must be greater than padlen, which is 18.", "Recording stopped too early -> Recovery missing"
 VP_102,tsst,No cleaned timelog file was found for VP_102! Run the 'notebooks/clean_timelog.ipynb' notebook first!
-VP_103,tsst,No NilsPod files found in directory!
-VP_103,ftsst,No NilsPod files found in directory!
+VP_103,tsst,No NilsPod files found in directory!, "Missing"
+VP_103,ftsst,No NilsPod files found in directory!, "Missing"
 VP_110,tsst,No NilsPod files found in directory!
 VP_110,ftsst,No NilsPod files found in directory!
