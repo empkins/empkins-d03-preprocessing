@@ -1,0 +1,66 @@
+,,error
+VP_001,tsst,No NilsPod files found in directory!
+VP_001,ftsst,No NilsPod files found in directory!
+VP_002,tsst,No NilsPod files found in directory!
+VP_002,ftsst,Cannot load NilsPod data!
+VP_003,tsst,Cannot load NilsPod data!
+VP_003,ftsst,Cannot load NilsPod data!
+VP_004,tsst,Cannot load NilsPod data!
+VP_004,ftsst,Cannot load NilsPod data!
+VP_005,tsst,Cannot load NilsPod data!
+VP_005,ftsst,Cannot load NilsPod data!
+VP_006,tsst,Cannot load NilsPod data!
+VP_006,ftsst,Cannot load NilsPod data!
+VP_007,tsst,Cannot load NilsPod data!
+VP_007,ftsst,Cannot load NilsPod data!
+VP_008,tsst,Cannot load NilsPod data!
+VP_008,ftsst,Cannot load NilsPod data!
+VP_009,tsst,Cannot load NilsPod data!
+VP_010,tsst,Cannot load NilsPod data!
+VP_014,ftsst,"The length of the input vector x must be greater than padlen, which is 18."
+VP_019,tsst,"The length of the input vector x must be greater than padlen, which is 18."
+VP_021,tsst,No NilsPod files found in directory!
+VP_022,tsst,
+VP_022,ftsst,No NilsPod files found in directory!
+VP_025,tsst,Cannot load NilsPod data!
+VP_025,ftsst,Cannot load NilsPod data!
+VP_026,tsst,Cannot load NilsPod data!
+VP_026,ftsst,Cannot load NilsPod data!
+VP_027,tsst,Cannot load NilsPod data!
+VP_027,ftsst,Cannot load NilsPod data!
+VP_031,tsst,
+VP_031,ftsst,"The length of the input vector x must be greater than padlen, which is 18."
+VP_032,tsst,
+VP_032,ftsst,"The length of the input vector x must be greater than padlen, which is 18."
+VP_033,tsst,
+VP_033,ftsst,"The length of the input vector x must be greater than padlen, which is 18."
+VP_034,ftsst,Cannot load NilsPod data!
+VP_036,tsst,"The length of the input vector x must be greater than padlen, which is 18."
+VP_037,tsst,"The length of the input vector x must be greater than padlen, which is 18."
+VP_041,tsst,"""labels ['Math_1'] not found in level"""
+VP_044,ftsst,"The length of the input vector x must be greater than padlen, which is 18."
+VP_045,tsst,No NilsPod files found in directory!
+VP_045,ftsst,No cleaned timelog file was found for VP_045! Run the 'notebooks/clean_timelog.ipynb' notebook first!
+VP_050,tsst,
+VP_051,tsst,'b0c2'
+VP_051,ftsst,No NilsPod files found in directory!
+VP_052,tsst,
+VP_053,tsst,'b0c2'
+VP_059,tsst,'b0c2'
+VP_060,tsst,No cleaned timelog file was found for VP_060! Run the 'notebooks/clean_timelog.ipynb' notebook first!
+VP_060,ftsst,"The length of the input vector x must be greater than padlen, which is 18."
+VP_061,tsst,No NilsPod files found in directory!
+VP_061,ftsst,"The length of the input vector x must be greater than padlen, which is 18."
+VP_065,tsst,"The length of the input vector x must be greater than padlen, which is 18."
+VP_066,ftsst,No NilsPod files found in directory!
+VP_067,ftsst,No NilsPod files found in directory!
+VP_082,ftsst,No NilsPod files found in directory!
+VP_083,ftsst,No NilsPod files found in directory!
+VP_096,tsst,
+VP_101,tsst,"The length of the input vector x must be greater than padlen, which is 18."
+VP_101,ftsst,"The length of the input vector x must be greater than padlen, which is 18."
+VP_102,tsst,No cleaned timelog file was found for VP_102! Run the 'notebooks/clean_timelog.ipynb' notebook first!
+VP_103,tsst,No NilsPod files found in directory!
+VP_103,ftsst,No NilsPod files found in directory!
+VP_110,tsst,No NilsPod files found in directory!
+VP_110,ftsst,No NilsPod files found in directory!
