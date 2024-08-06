@@ -6,9 +6,13 @@ authors = ["Luca Abel <luca.abel@fau.de>"]
 license = "MIT"
 readme = "README.md"
 
+
 [tool.poetry.dependencies]
-python = ">=3.8,<3.11"
+python = ">=3.9,<3.11"
 empkins-io = {path = "../empkins-io", develop = true}
+empkins-micro = {path = "../empkins-micro", develop = true, extras = ["digital_biomarker"]}
+moviepy = "*"
+matplotlib = "3.7.3"
 
 
 [tool.poetry.group.dev.dependencies]
